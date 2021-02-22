@@ -7,7 +7,7 @@
   var score = 0;
 
   function preload(){
-    getBackgroundImage();
+    getBackgroundImage(day.jpg);
   }
 
   function setup() {
